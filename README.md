@@ -23,8 +23,10 @@ I enjoy developing practical solutions that combine security, performance, and m
 #### 🛠️ Tech Stack
 
 ```txt
-Python • JavaScript • TypeScript • Node.js
-Git • Docker • PostgreSQL • TensorFlow
+OpenAI API • LLM Integration • Prompt Engineering • RAG • Pinecone • AI Agents • LangChain
+Node.js • Python • FastAPI • Express.js • GraphQL • PostgreSQL • MongoDB • Redis • Microservices
+React.js • Next.js • TypeScript • Tailwind CSS • Vue.js • Angular
+AWS • Lambda • S3 • RDS • IAM • EC2 • Docker • Kubernetes • Terraform • CI/CD • GitHub Actions • Cloudflare Workers
 ```
 
 ---
